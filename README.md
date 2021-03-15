@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![Baby Yoda]('404.jpg')
+![Baby Yoda](404.jpg)
